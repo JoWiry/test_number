@@ -1,10 +1,10 @@
 # Проект 0. Угадай число
 
 ## Оглавление 
-[1.Описание проекта](https://github.com/JoWiry/test_number/blob/main/project_0/Readme.md)
+[1.Описание проекта](https://github.com/JoWiry/test_number/blob/main/project_0/Project_description.txt)
 
 
-[2.Какой кейс решаем](https://github.com/JoWiry/test_number/blob/main/project_0/Readme.md) 
+[2.Какой кейс решаем](https://github.com/JoWiry/test_number/blob/main/project_0/Project_description.txt) 
 
 
 [3.Краткая информация о данных](https://github.com/JoWiry/test_number/blob/main/project_0/Readme.md)
